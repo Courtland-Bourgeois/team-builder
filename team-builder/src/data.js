@@ -1,4 +1,4 @@
-const teamList = [
+const teamMemberList = [
     {
       id: 1,
       name: 'Lacee Jeffery',
